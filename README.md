@@ -11,6 +11,11 @@ This tool, combined with our post-processing pipeline, has been used to build a 
 - Python 3.11
 - `pip install -r requirements.txt`
 
+Start the program:
+```
+python3 editor.py
+```
+
 ## Features
 
 - Extract subtitles from video frames using EasyOCR
